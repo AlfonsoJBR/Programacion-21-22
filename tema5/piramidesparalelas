@@ -1,0 +1,15 @@
+public class piramidesparalelas{
+	public static void main (String[] args) {
+  
+  
+    System.out.println("Introduzca altura pirámide número 1:");
+    altura1=Integer.parseInt(System.console().readLine());
+  
+    System.out.println("Introduzca altura pirámide número 2:");
+    altura2=Integer.parseInt(System.console().readLine());
+  
+  
+  
+  
+  }
+}  
