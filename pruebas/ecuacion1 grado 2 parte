@@ -1,0 +1,10 @@
+Algoritmo ecuacionprimergrado
+  Escribir "Este algoritmo resuelve ecuaciones a*x+b=c"
+  Escribir "introduce a"
+  leer a
+  Escribir "Introduce b"
+  leer b
+  Escribir "Introduce c"
+  leer c 
+  Escribir "x es igual a ",(c-b)/a
+FinAlgoritmo
